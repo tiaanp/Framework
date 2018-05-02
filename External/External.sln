@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epine.Domain", "Epine.Domain\Epine.Domain\Epine.Domain.csproj", "{55C8F31E-8D89-4C3B-BBF9-90FE6E98BDA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epine.Infrastructure", "Epine.Infrastructure\Epine.Infrastructure\Epine.Infrastructure.csproj", "{A32FFB49-0B46-4EED-8CB6-E22D71C8692E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55C8F31E-8D89-4C3B-BBF9-90FE6E98BDA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C8F31E-8D89-4C3B-BBF9-90FE6E98BDA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C8F31E-8D89-4C3B-BBF9-90FE6E98BDA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C8F31E-8D89-4C3B-BBF9-90FE6E98BDA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A32FFB49-0B46-4EED-8CB6-E22D71C8692E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A32FFB49-0B46-4EED-8CB6-E22D71C8692E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A32FFB49-0B46-4EED-8CB6-E22D71C8692E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A32FFB49-0B46-4EED-8CB6-E22D71C8692E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24AD8D1C-1E3C-452B-A85A-9AC8C4058829}
+	EndGlobalSection
+EndGlobal
